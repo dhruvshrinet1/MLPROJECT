@@ -1,4 +1,5 @@
-.artifacts
+.artifacts/*
+.logs/*
 .env
 .venv
 env/
