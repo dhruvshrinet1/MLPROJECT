@@ -5,3 +5,5 @@
 env/
 venv/
 mlproject.egg-info/
+src/__pycache__/*
+src/components/__pycache__/*
